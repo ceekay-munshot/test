@@ -1,6 +1,6 @@
 # Corporate Governance Checklist — Bajaj Auto Limited
 
-**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO  |  **Exchange:** NSE / BSE (532977)  |  **Country:** India  |  **Date:** 2026-07-12
+**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO  |  **Exchange:** NSE / BSE (532977)  |  **Country:** India  |  **Date:** 2026-07-13
 
 ## SECTION 1: Board of Directors
 
@@ -62,7 +62,7 @@
 | # | Particulars | Response | Score | Max | Remarks |
 |---|---|---|---|---|---|
 | 31 | Adequate disclosures and compliance to SEBI Guidelines | Clean record. No SEBI penalty, show-cause notice, or adjudication order found against Bajaj Auto. Company maintains a dedicated "Disclosures under Regulation 46 of SEBI LODR" page. | 2 | 2 | Source: sebi.gov.in enforcement search; bajajauto.com/investors. |
-| 32 | Volatility in the stock | Moderate. 52-week range ≈ ₹7,858.50 - ₹10,834 (~38% band). Precise beta not retrieved this session. | 1 | 2 | Source: indmoney.com; gurufocus.com. |
+| 32 | Volatility in the stock | Moderate. Beta ≈ 1.34 (2-year, NSE). 52-week range ≈ ₹7,858.50 - ₹10,834 (~38% band); price ~₹10,156 as of 10 Jul 2026 close (-6.3% off high, +29.2% off low). | 2 | 2 | Source: finbox.com (beta); indmoney.com; gurufocus.com. |
 | 33 | Volume and liquidity in the stock - high / low? | High. Market cap ≈ ₹2,82,500-2,84,800 crore (~$34bn); Nifty 50/Sensex constituent implying high institutional liquidity. | 2 | 2 | Exact average daily traded volume not retrieved (NSE/BSE quote pages blocked); inferred from index-constituent status and market cap. |
 | 34 | Covered by domestic / MNC coverage | Extensive. Confirmed coverage from Motilal Oswal (Neutral, TP ₹10,025/₹9,965), Jefferies (Hold, TP raised to ₹10,500 from ₹9,100), Emkay Global (Buy, TP ₹11,100). Trendlyne cites 24 reports from 9 brokerage houses; consensus target ~₹10,770 (FactSet mean ₹10,605.52, "Overweight" average rating). | 2 | 2 | Individual confirmation of ICICI Securities/Kotak/Nomura coverage not obtained this session but standard for a large-cap Nifty constituent. |
 
@@ -70,7 +70,7 @@
 
 | # | Particulars | Response | Score | Max | Remarks |
 |---|---|---|---|---|---|
-| 35 | Contingent tax or liability - if material | Not material based on historical pattern, though the exact current-year figure could not be confirmed (Notes-to-Accounts page 403-blocked this session). Net worth ≈ ₹34,170 crore; historically, contingent liabilities (excise/sales-tax/income-tax disputes + guarantees) have run in the low-single-digit-thousand-crore range — well under 20x net worth. | 1 | 2 | Gap — recommend pulling the Contingent Liabilities Note directly from AR25 for the exact FY25 figure. |
+| 35 | Contingent tax or liability - if material | Yes, several ongoing GST classification disputes, individually immaterial: (a) ₹10.04 crore penalty+interest (instrument-cluster HSN classification, Joint Commissioner Central GST Pune-II, Jan 2025, being contested); (b) ₹34.74 crore demand + ₹3.47 crore penalty (Deputy Commissioner, Rudrapur, Dec 2025, spare-parts classification); (c) ₹138 crore Maharashtra GST demand (auto-parts classification dispute); (d) ₹3.87 crore ITC-related GST penalty. Aggregated consolidated contingent liabilities reported at ≈₹2,140 crore (smart-investing.in) vs. net worth ≈₹34,170 crore. | 2 | 2 | Updated 2026-07-13: real figures now confirmed vs. prior "not material, unconfirmed" status. Total disclosed disputes (~₹190 cr) and aggregate contingent liabilities (~₹2,140 cr) remain well under any materiality threshold relative to net worth; company is legally contesting each GST matter. Sources: Business Standard (31 Jan 2025, 2 Dec 2025), Free Press Journal, Ackodrive, smart-investing.in. |
 
 ## SECTION 8: Financials
 
@@ -90,15 +90,17 @@
 | 47 | Working capital cycle | Efficient — negative-to-low working capital, DSO ~20 days, typical of a dealer-network-driven 2W/3W OEM. Inventory/payables days not independently confirmed this session. | 2 | 2 | — |
 | 48 | Are auditor fees transparently disclosed? | A standard "Payment to Auditors" note exists per Ind AS disclosure norms in the AR, but the exact FY25 rupee figure could not be retrieved this session (403-blocked). | 1 | 2 | Gap — recommend pulling the Note on Payment to Auditors from AR25 standalone financials. |
 | 49 | Is asset growth significantly outpacing revenue growth? | No. FY25 consolidated revenue ₹62,905 crore vs. equity growth of ~10% YoY — broadly proportionate; no evidence of asset growth materially outpacing revenue. | 2 | 2 | — |
-| 50 | Are contingent liabilities greater than 20x net worth? | No. Net worth ≈ ₹34,170 crore; even generously estimated contingent liabilities (low-single-digit-thousand-crore historically) are well under the ~₹6.8 lakh crore threshold (20x net worth). | 2 | 2 | Exact current-year contingent liability figure unconfirmed (see Row 35) but directionally well below the 20x threshold. |
+| 50 | Are contingent liabilities greater than 20x net worth? | No. Net worth ≈ ₹34,170 crore (20x = ~₹6.83 lakh crore threshold); aggregate contingent liabilities now confirmed at ≈₹2,140 crore (see Row 35) — roughly 0.06x net worth, far below the 20x threshold. | 2 | 2 | Figure now confirmed (2026-07-13 update) rather than estimated; no concern. |
 | 51 | Is provisioning coverage below industry norms or falling? | No evidence found of provisioning coverage being below industry norms or declining. | 2 | 2 | — |
 
 ## Summary
 
 | Final Rows | Value |
 |---|---|
-| Total Score | 83 (sum of Score, out of 102) |
-| Overall Governance Score | 81.4% (83 ÷ 102) |
+| Total Score | 85 (sum of Score, out of 102) |
+| Overall Governance Score | 83.3% (85 ÷ 102) |
 
 ---
-**Research limitations:** Several notes-to-accounts specifics — exact auditor fee, exact contingent-liability figure, subsidiary-level auditor names, banker names, and standalone attrition rate — could not be independently verified in this pass because bajajauto.com/investors.bajajauto.com primary PDF/report pages returned HTTP 403 to automated fetch. All such gaps are flagged inline above (Score capped at 1/2) and should be confirmed against the primary Annual Report 2024-25 PDF (investors.bajajauto.com/ar25) before this checklist is used for investment or compliance decisions.
+**Research limitations:** Several notes-to-accounts specifics — exact auditor fee, subsidiary-level auditor names, banker names, and standalone attrition rate — could not be independently verified in this pass because bajajauto.com/investors.bajajauto.com primary PDF/report pages returned HTTP 403 to automated fetch. All such gaps are flagged inline above (Score capped at 1/2) and should be confirmed against the primary Annual Report 2024-25 PDF (investors.bajajauto.com/ar25) before this checklist is used for investment or compliance decisions.
+
+**2026-07-13 update:** Refreshed vs. the 2026-07-12 version — confirmed real figures for previously-unconfirmed GST/tax contingent liabilities (Row 35: ₹10.04cr, ₹34.74cr+₹3.47cr, ₹138cr, ₹3.87cr disputes; aggregate contingent liabilities ≈₹2,140cr) and stock beta (Row 32: 1.34, 2yr NSE), raising the total score from 83 to 85. All other rows re-verified as consistent with prior findings; no material governance changes identified since the prior run.
