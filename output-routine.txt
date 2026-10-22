@@ -1,6 +1,6 @@
 # Corporate Governance Checklist — Template
 
-**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO (NSE) / 532977 (BSE)  |  **Exchange:** NSE, BSE  |  **Country:** India  |  **Date:** 2026-10-15
+**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO (NSE) / 532977 (BSE)  |  **Exchange:** NSE, BSE  |  **Country:** India  |  **Date:** 2026-10-22
 
 ## SECTION 1: Board of Directors
 
@@ -123,3 +123,6 @@
 **Refresh (2026-10-07):** Re-checked AR2025-26 Corporate Governance Report and Jun-2026 shareholding (promoters reported 54.76-55.01% across aggregators, pledge ≈0.01%, FII 9.01%, DII 13.54%). Corrected Row 1 remark on Sanjiv Bajaj (NED, promoter). Auditor S R B C & Co LLP (EY network) and Chairman Niraj Bajaj (non-executive) unchanged; FY26 NED commission cap proposed at 1% of net profit for 5 years from 1 Apr 2026; Rakesh Sharma Joint MD (1 Jun 2026-31 Mar 2029, CTC ₹15.28 crore p.a.). No score-moving event. **Total Score unchanged at 81/102 (79.4%).**
 
 **Refresh (2026-10-15):** Re-searched AR2025-26 governance coverage, shareholding and news for 8-15 Oct 2026. No new SEBI/ED action, auditor change, board change or Q2 FY27 results date surfaced; board (6/11 independent), Chairman Niraj Bajaj (non-executive), auditor S R B C & Co LLP (EY network; qualified FY26 consolidated opinion on BAIHAG) and promoter holding (~55%, Jun-2026 pattern still latest; Sep-2026 pattern due by ~21 Oct) unchanged. Search tools returned no live price after the 1-Oct-2026 sell-off (Row 32 unchanged). **Total Score unchanged at 81/102 (79.4%).** Open items unchanged: audit fee (Rows 9/48), PT Bajaj Auto Indonesia/Bajaj Mobility AG auditors (Row 7), contingent-liability breakup (Row 35), per-director remuneration table (Row 4), FY26 qualification wording (Row 8).
+
+**Refresh (2026-10-22):** Re-searched AR2025-26 governance coverage, shareholding and news for 15-22 Oct 2026. No new SEBI/ED action, auditor change, board change or promoter-stake change surfaced; the Sep-2026 shareholding pattern was not yet located (Mar/Jun-2026 patterns remain latest: promoters ~55.01
+**Refresh (2026-10-22):** Re-searched AR2025-26 governance coverage, shareholding and news for 15-22 Oct 2026. No new SEBI/ED action, auditor change, board change or promoter-stake change surfaced; the Sep-2026 shareholding pattern was not yet located (Mar/Jun-2026 patterns remain latest: promoters ~55.01%, pledge ~0.01%). New item: the board meets on 27 Oct 2026 to approve Q2 FY27 results (call 7:15 pm IST) - to be checked in the next refresh; a buyback consideration was reported for 15 Oct 2026 but no outcome was found. All scores unchanged; Total Score remains 81 / 102 (79.4%).
