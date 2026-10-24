@@ -1,6 +1,6 @@
 # Corporate Governance Checklist — Template
 
-**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO (NSE) / 532977 (BSE)  |  **Exchange:** NSE, BSE  |  **Country:** India  |  **Date:** 2026-10-23
+**Company:** Bajaj Auto Limited  |  **Ticker:** BAJAJ-AUTO (NSE) / 532977 (BSE)  |  **Exchange:** NSE, BSE  |  **Country:** India  |  **Date:** 2026-10-24
 
 ## SECTION 1: Board of Directors
 
@@ -126,3 +126,6 @@
 
 **Refresh (2026-10-22):** Re-searched AR2025-26 governance coverage, shareholding and news for 15-22 Oct 2026. No new SEBI/ED action, auditor change, board change or promoter-stake change surfaced; the Sep-2026 shareholding pattern was not yet located (Mar/Jun-2026 patterns remain latest: promoters ~55.01
 **Refresh (2026-10-22):** Re-searched AR2025-26 governance coverage, shareholding and news for 15-22 Oct 2026. No new SEBI/ED action, auditor change, board change or promoter-stake change surfaced; the Sep-2026 shareholding pattern was not yet located (Mar/Jun-2026 patterns remain latest: promoters ~55.01%, pledge ~0.01%). New item: the board meets on 27 Oct 2026 to approve Q2 FY27 results (call 7:15 pm IST) - to be checked in the next refresh; a buyback consideration was reported for 15 Oct 2026 but no outcome was found. All scores unchanged; Total Score remains 81 / 102 (79.4%).
+
+**Refresh (2026-10-24):** Re-searched AR2025-26 governance coverage, shareholding and October news. No new SEBI/ED action, pledge change, auditor change, board change or block deal surfaced; Sep-2026 shareholding pattern still not located (Jun-2026 latest: promoters ~54.8-55.0
+**Refresh (2026-10-24):** Re-searched AR2025-26 governance coverage, shareholding and October news. No new SEBI/ED action, pledge change, auditor change, board change or block deal surfaced; Sep-2026 shareholding pattern still not located (Jun-2026 latest: promoters ~54.8-55.0%, pledge ~0.01%). Q2 FY27 results board meeting remains scheduled for 27 Oct 2026; no buyback outcome found for the 15 Oct meeting. All scores unchanged; Total Score remains 81 / 102 (79.4%).
